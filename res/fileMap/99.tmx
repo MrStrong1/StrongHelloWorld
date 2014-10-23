@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="30" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="floorn" tilewidth="32" tileheight="32">
+  <tileoffset x="1" y="1"/>
+  <image source="floorn.png" width="321" height="113"/>
+ </tileset>
+ <tileset firstgid="31" name="coin" tilewidth="32" tileheight="32">
+  <tileoffset x="1" y="1"/>
+  <image source="coin.png" width="96" height="32"/>
+ </tileset>
+ <tileset firstgid="34" name="daoju" tilewidth="32" tileheight="32">
+  <tileoffset x="1" y="1"/>
+  <image source="daoju.png" width="192" height="130"/>
+ </tileset>
+ <layer name="floor" width="30" height="10">
+  <data encoding="base64" compression="zlib">
+   eJwTZ2BgkABiSSCWAmJpIBanghg2OWT2KKAv4MWDSQF8RGJaARUgVoWy5dEwLYEWEGsPgL2UAlD8guKDH4gFgFgQTR6bGLHm4ktH2PI/MkAX4ycSAwDG3gdh
+  </data>
+ </layer>
+ <layer name="coin" width="30" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF9ATyePAoGL5gNL6pAwB9sQF1
+  </data>
+ </layer>
+ <layer name="daoju" width="30" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYCANaACxJol6qAH0gFh/AOw1AWLTAbB3FAwMGArpm5puJCV9D4Y8CAAT2gNG
+  </data>
+ </layer>
+</map>

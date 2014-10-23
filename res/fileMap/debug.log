@@ -1,0 +1,278 @@
+Cocos2d: 
+<dict>
+	cocos2d.x.version: quick-cocos2d-x 2.2.5
+	cocos2d.x.compiled_with_profiler: false
+	cocos2d.x.compiled_with_gl_state_cache: true
+	gl.vendor: NVIDIA Corporation
+	gl.renderer: NVIDIA GeForce GT 610 OpenGL Engine
+	gl.version: 2.1 NVIDIA-8.24.15 310.90.9.05f01
+	gl.max_texture_size: 8192
+	gl.max_texture_units: 16
+	gl.supports_PVRTC: false
+	gl.supports_NPOT: true
+	gl.supports_BGRA8888: false
+	gl.supports_discard_framebuffer: false
+	gl.supports_vertex_array_object: true
+</dict>
+Cocos2d: lua_loadChunksFromZIP() - load zip file: /Users/user/Documents/quick-cocos2d-x-2.2.5/lib/framework_precompiled/framework_precompiled.zip
+Cocos2d: lua_loadChunksFromZIP() - loaded chunks count: 108
+Cocos2d: ------------------------------------------------
+Cocos2d: LOAD LUA FILE: /Users/user/Desktop/xiaosankuaipao/scripts/main.lua
+Cocos2d: ------------------------------------------------
+Cocos2d: [0.0171] [INFO] 
+Cocos2d: [0.0171] [INFO] # DEBUG                        = 1
+Cocos2d: [0.0171] [INFO] #
+Cocos2d: [0.0171] [INFO] # device.platform              = mac
+Cocos2d: [0.0171] [INFO] # device.model                 = unknown
+Cocos2d: [0.0171] [INFO] # device.language              = cn
+Cocos2d: [0.0171] [INFO] # device.writablePath          = /Users/user/Desktop/xiaosankuaipao/
+Cocos2d: [0.0172] [INFO] # device.cachePath             = /Users/user/Desktop/xiaosankuaipao/
+Cocos2d: [0.0172] [INFO] # device.directorySeparator    = /
+Cocos2d: [0.0172] [INFO] # device.pathSeparator         = :
+Cocos2d: [0.0172] [INFO] #
+Cocos2d: [0.0183] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+Cocos2d: [0.0183] [INFO] # CONFIG_SCREEN_WIDTH          = 960.00
+Cocos2d: [0.0183] [INFO] # CONFIG_SCREEN_HEIGHT         = 640.00
+Cocos2d: [0.0183] [INFO] # display.widthInPixels        = 960.00
+Cocos2d: [0.0183] [INFO] # display.heightInPixels       = 640.00
+Cocos2d: [0.0183] [INFO] # display.contentScaleFactor   = 1.00
+Cocos2d: [0.0183] [INFO] # display.width                = 960.00
+Cocos2d: [0.0183] [INFO] # display.height               = 640.00
+Cocos2d: [0.0183] [INFO] # display.cx                   = 480.00
+Cocos2d: [0.0183] [INFO] # display.cy                   = 320.00
+Cocos2d: [0.0183] [INFO] # display.left                 = 0.00
+Cocos2d: [0.0183] [INFO] # display.right                = 960.00
+Cocos2d: [0.0184] [INFO] # display.top                  = 640.00
+Cocos2d: [0.0184] [INFO] # display.bottom               = 0.00
+Cocos2d: [0.0184] [INFO] # display.c_left               = -480.00
+Cocos2d: [0.0184] [INFO] # display.c_right              = 480.00
+Cocos2d: [0.0184] [INFO] # display.c_top                = 320.00
+Cocos2d: [0.0184] [INFO] # display.c_bottom             = -320.00
+Cocos2d: [0.0184] [INFO] #
+Cocos2d: [0.1208] on
+Cocos2d: Get data from file(music@2x.png ) failed!
+Cocos2d: [0.2277] [ERR] display.newSprite() - create sprite failure, filename music.png 
+Cocos2d: [0.2277] 
+stack traceback:
+	[string "framework.display"]: in function 'newSprite'
+	[string "framework.cc.ui.UIButton"]: in function 'updateButtonImage_'
+	[string "framework.cc.ui.UIButton"]: in main chunk
+Cocos2d: [1.9184] 时间调度
+Cocos2d: [2.0348] 时间调度
+Cocos2d: [2.1348] 时间调度
+Cocos2d: [2.2515] 时间调度
+Cocos2d: [2.3515] 时间调度
+Cocos2d: [2.4515] 时间调度
+Cocos2d: [2.5681] 时间调度
+Cocos2d: [2.6848] 时间调度
+Cocos2d: [2.7848] 时间调度
+Cocos2d: [2.9015] 时间调度
+Cocos2d: [3.0015] 时间调度
+Cocos2d: [3.1015] 时间调度
+Cocos2d: [3.2015] 时间调度
+Cocos2d: [3.3182] 时间调度
+Cocos2d: [3.4348] 时间调度
+Cocos2d: [3.5515] 时间调度
+Cocos2d: [3.6678] 时间调度
+Cocos2d: [3.7682] 时间调度
+Cocos2d: [3.8844] 时间调度
+Cocos2d: [3.9848] 时间调度
+Cocos2d: [4.0849] 时间调度
+Cocos2d: [4.2016] 时间调度
+Cocos2d: [4.3182] 时间调度
+Cocos2d: [4.4349] 时间调度
+Cocos2d: [4.5515] 时间调度
+Cocos2d: [4.6515] 时间调度
+Cocos2d: [4.7516] 时间调度
+Cocos2d: [4.8516] 时间调度
+Cocos2d: [4.9683] 时间调度
+Cocos2d: [5.0683] 时间调度
+Cocos2d: [5.1683] 时间调度
+Cocos2d: [5.2683] 时间调度
+Cocos2d: [5.3849] 时间调度
+Cocos2d: [5.4849] 时间调度
+Cocos2d: [5.6016] 时间调度
+Cocos2d: [5.7016] 时间调度
+Cocos2d: [5.8178] 时间调度
+Cocos2d: [5.9350] 时间调度
+Cocos2d: [6.0350] 时间调度
+Cocos2d: [6.1509] 时间调度
+Cocos2d: [6.2516] 时间调度
+Cocos2d: [6.3516] 时间调度
+Cocos2d: [6.4516] 时间调度
+Cocos2d: [6.5679] 时间调度
+Cocos2d: [6.6684] 时间调度
+Cocos2d: [6.7684] 时间调度
+Cocos2d: [6.8851] 时间调度
+Cocos2d: [6.9851] 时间调度
+Cocos2d: [7.1018] 时间调度
+Cocos2d: [7.2018] 时间调度
+Cocos2d: [7.3018] 时间调度
+Cocos2d: [7.4184] 时间调度
+Cocos2d: [7.5351] 时间调度
+Cocos2d: [7.6518] 时间调度
+Cocos2d: [7.7518] 时间调度
+Cocos2d: [7.8518] 时间调度
+Cocos2d: [7.9518] 时间调度
+Cocos2d: [8.0518] 时间调度
+Cocos2d: [8.1685] 时间调度
+Cocos2d: [8.2852] 时间调度
+Cocos2d: [8.4013] 时间调度
+Cocos2d: [8.5018] 时间调度
+Cocos2d: [8.6185] 时间调度
+Cocos2d: [8.7350] 时间调度
+Cocos2d: [8.8352] 时间调度
+Cocos2d: [8.9352] 时间调度
+Cocos2d: [9.0518] 时间调度
+Cocos2d: [9.1518] 时间调度
+Cocos2d: [9.2519] 时间调度
+Cocos2d: [9.9019] 时间调度
+Cocos2d: [10.0185] 时间调度
+Cocos2d: [10.1185] 时间调度
+Cocos2d: [10.2186] 时间调度
+Cocos2d: [10.3352] 时间调度
+Cocos2d: [10.4518] 时间调度
+Cocos2d: [10.5519] 时间调度
+Cocos2d: [10.6685] 时间调度
+Cocos2d: [10.7686] 时间调度
+Cocos2d: [10.8686] 时间调度
+Cocos2d: [10.9852] 时间调度
+Cocos2d: [11.1019] 时间调度
+Cocos2d: [11.2186] 时间调度
+Cocos2d: [11.3186] 时间调度
+Cocos2d: [11.4352] 时间调度
+Cocos2d: [11.5509] 时间调度
+Cocos2d: [11.6519] 时间调度
+Cocos2d: [11.7519] 时间调度
+Cocos2d: [11.8686] 时间调度
+Cocos2d: [11.9686] 时间调度
+Cocos2d: [12.0853] 时间调度
+Cocos2d: [12.1853] 时间调度
+Cocos2d: [12.2853] 时间调度
+Cocos2d: [12.4019] 时间调度
+Cocos2d: [12.5019] 时间调度
+Cocos2d: [12.6186] 时间调度
+Cocos2d: [12.7186] 时间调度
+Cocos2d: [12.8353] 时间调度
+Cocos2d: [12.9520] 时间调度
+Cocos2d: [13.0686] 时间调度
+Cocos2d: [13.1845] 时间调度
+Cocos2d: [13.2853] 时间调度
+Cocos2d: [13.4020] 时间调度
+Cocos2d: [13.5019] 时间调度
+Cocos2d: [13.6186] 时间调度
+Cocos2d: [13.7186] 时间调度
+Cocos2d: [13.8186] 时间调度
+Cocos2d: [13.9186] 时间调度
+Cocos2d: [14.0353] 时间调度
+Cocos2d: [14.1353] 时间调度
+Cocos2d: [14.2520] 时间调度
+Cocos2d: [14.3686] 时间调度
+Cocos2d: [14.4850] 时间调度
+Cocos2d: [14.5853] 时间调度
+Cocos2d: [14.7013] 时间调度
+Cocos2d: [14.8020] 时间调度
+Cocos2d: [14.9187] 时间调度
+Cocos2d: [15.0353] 时间调度
+Cocos2d: [15.1353] 时间调度
+Cocos2d: [15.2353] 时间调度
+Cocos2d: [15.3520] 时间调度
+Cocos2d: [15.4687] 时间调度
+Cocos2d: [15.5687] 时间调度
+Cocos2d: [15.6853] 时间调度
+Cocos2d: [15.8020] 时间调度
+Cocos2d: [15.9182] 时间调度
+Cocos2d: [16.0354] 时间调度
+Cocos2d: [16.1520] 时间调度
+Cocos2d: [16.2520] 时间调度
+Cocos2d: [16.3687] 时间调度
+Cocos2d: [16.4687] 时间调度
+Cocos2d: [16.5853] 时间调度
+Cocos2d: [16.6854] 时间调度
+Cocos2d: [16.7854] 时间调度
+Cocos2d: [16.9021] 时间调度
+Cocos2d: [17.0021] 时间调度
+Cocos2d: [17.1187] 时间调度
+Cocos2d: [17.2354] 时间调度
+Cocos2d: [17.3521] 时间调度
+Cocos2d: [17.4679] 时间调度
+Cocos2d: [17.5687] 时间调度
+Cocos2d: [17.6854] 时间调度
+Cocos2d: [17.7854] 时间调度
+Cocos2d: [17.9021] 时间调度
+Cocos2d: [18.0179] 时间调度
+Cocos2d: [18.1187] 时间调度
+Cocos2d: [18.2354] 时间调度
+Cocos2d: [18.3519] 时间调度
+Cocos2d: [18.4679] 时间调度
+Cocos2d: [18.5687] 时间调度
+Cocos2d: [18.6687] 时间调度
+Cocos2d: [18.7688] 时间调度
+Cocos2d: [18.8854] 时间调度
+Cocos2d: [18.9854] 时间调度
+Cocos2d: [19.0854] 时间调度
+Cocos2d: [19.1854] 时间调度
+Cocos2d: [19.3021] 时间调度
+Cocos2d: [19.4180] 时间调度
+Cocos2d: [19.5188] 时间调度
+Cocos2d: [19.6188] 时间调度
+Cocos2d: [19.7188] 时间调度
+Cocos2d: [19.8355] 时间调度
+Cocos2d: [19.9521] 时间调度
+Cocos2d: [20.0679] 时间调度
+Cocos2d: [20.1682] 时间调度
+Cocos2d: [20.2850] 时间调度
+Cocos2d: [20.4016] 时间调度
+Cocos2d: [20.5021] 时间调度
+Cocos2d: [20.6021] 时间调度
+Cocos2d: [20.7021] 时间调度
+Cocos2d: [20.8188] 时间调度
+Cocos2d: [20.9355] 时间调度
+Cocos2d: [21.0519] 时间调度
+Cocos2d: [21.1522] 时间调度
+Cocos2d: [21.2679] 时间调度
+Cocos2d: [21.3688] 时间调度
+Cocos2d: [21.4855] 时间调度
+Cocos2d: [21.5855] 时间调度
+Cocos2d: [21.7022] 时间调度
+Cocos2d: [21.8022] 时间调度
+Cocos2d: [21.9022] 时间调度
+Cocos2d: [22.0188] 时间调度
+Cocos2d: [22.1188] 时间调度
+Cocos2d: [22.2355] 时间调度
+Cocos2d: [22.3355] 时间调度
+Cocos2d: [22.4519] 时间调度
+Cocos2d: [22.5522] 时间调度
+Cocos2d: [22.6679] 时间调度
+Cocos2d: [22.7689] 时间调度
+Cocos2d: [22.8855] 时间调度
+Cocos2d: [22.9855] 时间调度
+Cocos2d: [23.1022] 时间调度
+Cocos2d: [23.2189] 时间调度
+Cocos2d: [23.3348] 时间调度
+Cocos2d: [23.4355] 时间调度
+Cocos2d: [23.5522] 时间调度
+Cocos2d: [23.6689] 时间调度
+Cocos2d: [23.7689] 时间调度
+Cocos2d: [23.8856] 时间调度
+Cocos2d: [24.0022] 时间调度
+Cocos2d: [24.1022] 时间调度
+Cocos2d: [24.2189] 时间调度
+Cocos2d: [24.3189] 时间调度
+Cocos2d: [24.4352] 时间调度
+Cocos2d: [24.5352] 时间调度
+Cocos2d: [24.6356] 时间调度
+Cocos2d: [24.7356] 时间调度
+Cocos2d: [24.8356] 时间调度
+Cocos2d: [24.9523] 时间调度
+Cocos2d: [25.0689] 时间调度
+Cocos2d: [25.1856] 时间调度
+Cocos2d: [25.2856] 时间调度
+Cocos2d: [25.4023] 时间调度
+Cocos2d: [25.5189] 时间调度
+Cocos2d: [25.6189] 时间调度
+Cocos2d: [25.7189] 时间调度
+Cocos2d: [25.8356] 时间调度
+Cocos2d: [25.9523] 时间调度
+Cocos2d: [26.0679] 时间调度
+Cocos2d: [26.1690] 时间调度
